@@ -1,0 +1,20 @@
+{
+  "name": "gram_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "files": [
+    "build/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d build"
+  },
+  "author": "L3",
+  "license": "MIT",
+  "dependencies": {
+    "build-if-changed": "^1.5.5",
+    "pushkin-api": "^1.6.0"
+  },
+  "yalcSig": "e95134e1fef3037d9953711f7c576f2d"
+}

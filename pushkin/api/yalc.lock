@@ -1,0 +1,21 @@
+{
+  "version": "v1",
+  "packages": {
+    "hello_api": {
+      "signature": "ca67ac3a8534d89dfaf70781a71e2630",
+      "file": true
+    },
+    "lexdec_api": {
+      "signature": "54ebd716d7bd1e0592ec4a69837a9c27",
+      "file": true
+    },
+    "gram_api": {
+      "signature": "e95134e1fef3037d9953711f7c576f2d",
+      "file": true
+    },
+    "spr_api": {
+      "signature": "896b3d66354fef6a838170b65553f65c",
+      "file": true
+    }
+  }
+}

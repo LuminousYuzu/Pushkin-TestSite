@@ -1,0 +1,29 @@
+{
+  "name": "pushkin-site",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@pushkin-templates/exp-basic": "6.1.0",
+    "@pushkin-templates/exp-grammaticality-judgment": "6.1.0",
+    "@pushkin-templates/exp-lexical-decision": "6.1.0",
+    "@pushkin-templates/exp-self-paced-reading": "6.1.0",
+    "@pushkin-templates/site-basic": "1.0.1",
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "/.yalc/",
+      "/build/"
+    ]
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "react-icons": "^5.3.0"
+  }
+}
